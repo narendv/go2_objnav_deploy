@@ -1,0 +1,25 @@
+<package format="2">
+  <name>mask_to_bbox_cpp</name>
+  <version>0.0.0</version>
+  <description>Example of converting semantic masks to bounding boxes in C++</description>
+
+  <maintainer email="narendv03@gmail.com">Your Name</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <build_depend>rclcpp</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>vision_msgs</build_depend>
+  <build_depend>cv_bridge</build_depend>
+  <build_depend>opencv</build_depend>
+
+  <exec_depend>rclcpp</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>vision_msgs</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+  <exec_depend>opencv</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

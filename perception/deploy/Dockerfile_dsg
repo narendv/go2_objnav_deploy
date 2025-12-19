@@ -1,0 +1,51 @@
+FROM ollama_pytorch:latest
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+# Install Python3 and pip
+RUN apt-get update && apt-get install -y python3-pip libopenblas-dev
+
+# ROS installation
+RUN apt-get update && apt-get install -y software-properties-common && \
+    add-apt-repository ppa:ubuntu-toolchain-r/test -y && \
+    add-apt-repository ppa:deadsnakes/ppa -y && \
+    add-apt-repository universe -y
+
+RUN curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -o /usr/share/keyrings/ros-archive-keyring.gpg
+
+RUN echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-archive-keyring.gpg] http://packages.ros.org/ros2/ubuntu $(. /etc/os-release && echo $UBUNTU_CODENAME) main" | tee /etc/apt/sources.list.d/ros2.list > /dev/null
+
+# Install ROS base and required packages
+RUN apt-get update && apt install -y ros-humble-ros-base \
+                                    python3-argcomplete \
+                                    ros-humble-geometry-msgs \
+                                    ros-humble-visualization-msgs \
+                                    ros-humble-tf2-ros \
+                                    python3-opencv \
+                                    ros-humble-cv-bridge \
+                                    ros-humble-vision-msgs \
+                                    python3-colcon-common-extensions \
+                                    ros-humble-rmw-cyclonedds-cpp \
+                                    ros-humble-rosidl-generator-dds-idl
+
+# Install additional Python packages
+RUN python3 -m pip install numpy==1.26.0 scipy==1.13 scikit-learn sentence-transformers ollama
+
+WORKDIR /root
+RUN git clone https://github.com/unitreerobotics/unitree_ros2
+RUN cd ~/unitree_ros2/cyclonedds_ws/src && git clone https://github.com/ros2/rmw_cyclonedds -b humble && \
+    git clone https://github.com/eclipse-cyclonedds/cyclonedds -b releases/0.10.x && cd .. && colcon build --packages-select cyclonedds
+
+WORKDIR /root/unitree_ros2/cyclonedds_ws
+RUN /bin/bash -c '. /opt/ros/humble/setup.bash; colcon build'
+
+RUN /bin/bash -c "source /opt/ros/humble/setup.bash && \
+    source $HOME/unitree_ros2/cyclonedds_ws/install/setup.bash"
+
+ENV RMW_IMPLEMENTATION=rmw_cyclonedds_cpp
+ENV CYCLONEDDS_URI='<CycloneDDS><Domain><General><Interfaces><NetworkInterface name="eth0" priority="default" multicast="default" /></Interfaces></General></Domain></CycloneDDS>'
+
+RUN echo 'source /opt/ros/humble/setup.bash' >> ~/.bashrc
+RUN echo 'source /root/unitree_ros2/cyclonedds_ws/install/setup.bash' >> ~/.bashrc
+
+WORKDIR /workspace

@@ -1,0 +1,4 @@
+The corridor is a long hallway usually having wastebins, doors, paintings, benches, and elevators:corridor
+The office is a room equipped with television, monitors, computers, laptops, and whiteboards:office
+The pantry is a room with items like microwave, fridge, toaster, coffee maker, dining table, :pantry
+The library is a room with books and bookshelves:library
