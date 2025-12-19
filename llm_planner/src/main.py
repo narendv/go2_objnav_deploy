@@ -11,12 +11,6 @@ import math
 from utils import *
 
 
-
-def get_mocked_json(path):
-    with open(path, 'r') as file:
-            json_data = json.load(file)
-    return json_data
-
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('jetson-ip', type=str, help='IP address of the external Jetson', required=True)
@@ -115,10 +109,10 @@ def get_scene_map(map_path):
     scene_map = get_latest_json(map_path)
     return scene_map
 
-#get_latest_json = get_mocked_json
+
 if __name__ == '__main__':
     args = get_args()    
-    system_prompt_path = './prompts/system_prompt_claude.txt'
+    system_prompt_path = './prompts/system_prompt.txt'
     user_prompt_path = './prompts/user_prompt.txt'
     
     map_path = args.maps_path
