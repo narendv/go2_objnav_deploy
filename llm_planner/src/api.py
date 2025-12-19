@@ -58,7 +58,6 @@ class PosePublisher(Node):
         while not self.current_pose:
             continue
         current_pose = self.current_pose
-        # print(current_pose)
         print("Current orientation: ",current_pose.rotation.x, current_pose.rotation.y, current_pose.rotation.z, current_pose.rotation.w)
         # Create a rotation object from the current quaternion
         current_orientation = R.from_quat([current_pose.rotation.x, current_pose.rotation.y, current_pose.rotation.z, current_pose.rotation.w])
