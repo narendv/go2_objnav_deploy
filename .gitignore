@@ -12,3 +12,6 @@ perception/*_ws/build/
 perception/*_ws/devel/
 perception/*_ws/install/
 perception/*_ws/log/
+
+# Ignore all trt files
+perception/seg_ws/src/mask_to_bbox_cpp/scripts/new_segmentation/*.trt
