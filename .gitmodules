@@ -1,0 +1,3 @@
+[submodule "Go2Py"]
+	path = Go2Py
+	url = https://github.com/machines-in-motion/Go2Py.git

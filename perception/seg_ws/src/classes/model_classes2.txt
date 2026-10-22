@@ -1,0 +1,1719 @@
+person,men,girls,ladies,child,man,boys,guy,women,guys,people,boy,girl,woman,lady,children
+bicycle,bike,bicycles,bikes
+car,cars
+motorcycle,motorcycles
+airplanes,airplane
+buses,bus
+locomotives,locomotive,train,freight train,trains
+traffic light,traffic lights,traffic signal,signal light,stoplight
+fire hydrant
+parking meter
+bird,birds
+dog,puppy,puppies,dogs
+sheep
+calf,cows,cow
+elephant,elephants
+bears,bear
+zebra,zebras
+giraffes,giraffe
+backpack,backpacks,knapsack,haversack,rucksack,packsack
+luggage,baggage,briefcase,duffle,duffle bag
+umbrella,umbrellas
+frisbee
+skis
+snowboard
+kites,kite
+baseball bat
+skateboard
+surfboard
+tennis racket
+bottle,water bottle,bottles,waterbottle
+drinking glass,wine glasses,wine glass,wineglass,water cup,cup,water glass,cups,drinking glasses
+forks,fork
+spoon,spoons
+bowl,bowls,mixing bowl,soup bowl,salad plate,salad bowl
+bananas,banana
+apple,apple fruit,apples
+sandwich,sandwiches
+broccoli
+carrot,carrots
+hot dog,hotdog
+pizza,pizza pie
+donuts,donut
+cake,cakes,birthday cake
+sofa,sofas,couch,double sofa,chaise longue,studio couch,couches,seat furniture
+pottedplant,potted plants,potted plant,planters,pottedplants,planter,flower pot,flowerpot,plant pot
+bed,beds,bedroom bed
+diningtables,dining table,dining tables,diningtable,diningtable
+toilet
+computer mouse,computermouse
+remote control,tv remote,remote
+microwave
+ovens,oven
+toaster
+sink,sinks
+fridge,refrigerator
+vase,vases
+scissor,scissors
+teddy bear,teddy bears
+toothbrush,toothbrushes
+curtain,drape,drapery,curtains,blinder
+paintings,framed canvas,painting,wallart,pictures,picture
+shelf,shelves,storage rack,bookshelf,bookshelves,library shelf,storage shelf
+armchair,armchairs
+fence,fencing
+closets,wardrobe,closet,wardrobes,press
+bathtub,bathing tub,tub
+rail,railing
+cushion,cushions
+postbox,letter box
+column,pillar
+signboards,signboard
+table,tables,desks,desk,work surface,davenport
+side tables,side table,coffee table,cocktail table
+billiard table,snooker table,pool table
+hearth,fireplace,open fireplace
+pillows,pillow
+screen door,shower door
+crapper,commode,potty
+flower,flowers
+counter top,countertop,worktop,counter
+kitchen stove,kitchen range,cooking stove,stove,gas stove
+palm trees,palm tree
+kitchen island
+computer,data processor,electronic computer,information processing system,computing machine,computing device,desktop computer
+arcade machine,arcade machines
+omnibus,jitney,motorbus,motorcoach,passenger vehicle,double decker,autobus
+light,can light,spotlight,electric light,electric light,bulb,light bulb,bulbs,incandescent lamp,lightbulb,bulb,lamps,lamp,ceiling lamp
+chandelier,pendent,pendant
+awning,sunblind,sunshade
+streetlight,street lamp,street light,street lights
+monitor,monitors,computer monitor,desktop monitor,computer screen,moniter,monitor display,crt screen,tvmonitor
+television system,television receiver,television set,tv set,television,tv,tv receiver
+aeroplane,aeroplanes
+wearing apparel,dress,apparel
+pole
+banister,bannister,handrail,balusters,balustrade
+ottoman,puff,pouf,pouffe,hassock
+van
+fountain
+dish washer,automatic dish washer,dishwasher,dish washer,dishwashing machine
+washing machine,washer
+toy,plaything,toys,toy car
+stuffed toy,stuffed animal
+stools,stool
+cask,barrel,barrels,casks
+minibike,motorbike,motorbikes
+balls,ball,sports ball,sports balls
+marque,trade name,brand name,brand
+microwave oven
+girraffe
+sculpture,sculptures
+exhaust hood
+sconce light,sconce lamp,sconce
+tray,trays
+wastebin,dustbin,trash bin,garbage bin,trash can,garbage can,trash barrel,garbage canister,garbage bucket
+ash bin,ashbin,ashcan
+information board,community board,announcement board,bulletin board
+posting board,notice board,poster board
+notice,posting,postings,announcement
+poster,placard
+radiator
+handbag,handbags,clutch bag
+flag,flags
+air conditioner
+antenna
+artillery
+ashtray
+baby carriage
+balloon
+bamboo weaving
+basketball backboard
+tablecloth,table cloth
+bell
+binoculars
+bird feeder,birdfeeder
+bird nest
+bone
+bottle opener
+bracelet
+bridge
+broom
+brush
+bucket,pail,canister,cannister
+calculator
+calendar
+camera
+can
+candle
+candle holder
+casette recorder
+cash register
+ceiling
+cello
+chain
+chessboard
+chicken
+chopstick
+clip
+clippers
+clothes tree
+coffee machine
+comb
+concrete
+coral
+cork
+corkscrew
+court
+crabstick
+crane
+crutch
+cutting board
+dais
+dock
+dolphin
+drainer
+dray
+drink dispenser,drinking machine
+duck
+dumbbell
+earphone
+earrings
+egg
+electric iron
+electric pot
+electric saw
+electronic keyboard
+engine
+envelope
+exhibition booth
+faucet
+fax machine
+fences
+ferris wheel
+fire extinguisher,extinguisher
+fire place
+fishbowl,goldfish bowl,fish bowl,fish tank
+fishing pole,fishing rod
+flagstaff
+flame
+flashlight,torch
+foam
+footbridge
+forceps
+forklift
+fox
+frame
+frog
+funnel
+gas cylinder
+globe
+grandstand
+gravestone
+soil,ground,soil ground,dirt ground
+guardrail
+hammer
+hand cart
+handle
+hanger
+hard disk drive
+hat
+hay
+heater
+helicopter
+holder
+hook
+hot air balloon
+hydrovalve
+ice
+inflator pump
+ipod
+ironing board
+kart
+key
+ladder
+ladle
+leaves
+lid
+life buoy
+lighter
+line
+lion
+lobster
+lock
+mailbox
+mannequin
+map
+mattress
+menu
+metal
+microphone
+missile
+model
+money
+monkey
+mop
+mountains,mountain
+mouse pad,mousepad
+musical instrument
+napkin
+ornament
+pack
+pan,baking pan
+paper cutter,paperknife,paper knife
+parachute
+parasol
+parterre
+patio
+pelage
+pen
+pencil
+piano
+pig
+pitcher
+plastic
+platform,platforms
+player
+playground
+pliers
+plume
+poker chip,poker
+postcard
+pot
+projector
+pumpkin
+rabbit
+radio
+rake
+ramp
+range hood
+receiver
+recorder
+recreational machines
+road,street,streets
+robot,robot arm,quadruped
+rocks,rock,stones,stone
+rocket
+rope
+ruler
+runway
+sand
+saw
+scale
+scoop
+screwdriver
+scythe
+sewer
+sewing machine
+shed
+shell
+shopping cart
+shovel
+sidecar
+sidewalk
+ski
+clouds,sky
+sled
+slippers
+smoke
+snail
+snake
+snow
+snowmobiles
+spanner
+spatula
+speaker
+speed bump
+spice container
+sprayer
+squirrel
+stapler
+stick
+sticky note
+straw
+sun
+surveillance camera
+swan
+sweeper
+swing
+switch
+tableware
+armored combat vehicle,army tank,armoured combat vehicle
+tap
+tape
+tarp
+tent
+tire
+tong
+track,train track,railroad
+trampoline
+trees,tree
+tricycle
+tripod
+tube
+turtle
+tweezers
+typewriter
+vacuum cleaner
+vending machine
+video game console
+violin
+wakeboard
+wallet
+watch
+water
+water dispenser
+water pipe
+water skate board
+watermelon
+whale
+wharf
+wheelchair
+window,glass window,windowpane,windows
+wire
+wood piece
+wool
+aerosol can,spray can
+alcohol,alcoholic beverage
+alligator,gator
+almond
+ambulance
+amplifier
+anklet,ankle bracelet
+aerial,transmitting aerial
+applesauce
+apricot
+apron
+aquarium
+galosh,rubber,arctic,golosh,gumshoe
+armband
+armoire
+armor,armour
+artichoke
+asparagus
+nebuliser,nebulizer,spray,atomiser,atomizer
+avocado
+axe,ax
+baboon
+stroller,perambulator,pram,baby buggy
+bagel,beigel
+bagpipe
+baguet,baguette
+lure,bait
+tutu,ballet skirt
+bamboo
+Band Aid
+bandage
+bandanna,bandana
+banjo
+banner,streamer
+barbell
+barge
+barrette
+barrow,wheelbarrow,garden cart,lawn cart
+baseball base
+baseball
+golf cap,jockey cap,baseball cap
+baseball mitt
+basketball
+tuba,bass horn,sousaphone
+bath towel,towel,bathrobe
+batter
+battery
+beachball
+bead
+bean curd,tofu
+beanbag
+beanie,beany
+bedpan
+boeuf,beef
+beeper,pager
+beetle
+capsicum,bell pepper
+belt
+belt buckle
+beret
+bib
+Bible
+billboard
+binder,ring binder,files,folder
+opera glasses,field glasses
+birdhouse
+birthday card
+pirate flag
+black sheep
+blackberry
+blazer,sport jacket,sports jacket,sports coat,sport coat
+liquidizer,blender,liquidiser
+blimp
+flasher,blinker
+blouse
+blueberry
+gameboard
+bobfloat,bobber,bob
+bobbin,reel,spool
+hairgrip,bobby pin
+boiled egg,coddled egg
+bola tie,bolo tie,bola,bolo
+deadbolt
+bolt
+bonnet
+pamphlet,brochure,leaflet,booklet
+purse
+bookmarker,bookmark
+microphone boom,boom microphone
+boot
+bouquet
+bow
+bow tie,bowtie
+pipe bowl
+bowler hat,derby,plug hat,derby hat,bowler
+bowling ball
+suspenders
+bangle
+brass plaque
+bra,bandeau,brassiere
+breadbox,bread bin
+bread
+breechcloth,breechclout,loincloth
+wedding gown,wedding dress,bridal gown
+broach
+brownie
+brussels sprouts
+bubble gum
+bulldog
+dozer,bulldozer
+bullet train
+bulletproof vest
+bullhorn,megaphone
+bun,roll
+buoy
+burrito
+charabanc
+business card
+butter
+button
+cab,taxicab,taxi
+cabana
+cabin car,caboose
+locker,storage locker
+camcorder
+camping bus,motor home,camper
+tin can
+can opener,tin opener
+candlestick
+candy bar
+candy cane
+walking cane
+canoe
+cantaloupe,cantaloup
+canteen
+cape
+cappuccino,coffee cappuccino,coffee
+auto
+railcar,railway car,railroad car
+elevator car
+automobile battery,car battery
+identity card
+cardigan
+cargo ship,cargo vessel
+carnation
+register
+casserole
+cassette
+plaster bandage,cast,plaster cast
+cauliflower
+cayenne pepper,cayenne,red pepper
+celery
+cellphone,cellular telephone,cellular phone,mobile phone,smart phone,cell phone,mobile
+ring armor,ring mail,ring armour,chain mail,chain armour,chain armor
+chalice
+chap
+checkbook,chequebook
+checkerboard
+cherry
+garbanzo,chickpea
+chili,chilli,chili pepper,chilly,chile
+gong,chime
+chinaware
+potato chip,crisp
+chocolate bar
+chocolate cake
+chocolate milk
+chocolate mousse
+choker,neckband,collar
+chopping block,chopping board
+Christmas tree
+slide
+cider,cyder
+cigar box
+cigarette
+cigarette case,cigarette pack
+cistern,water tank
+clarinet
+clasp
+cleanser,cleansing agent
+cleat
+clementine
+clipboard
+cloak
+timepiece,timekeeper
+clock,alarm clock,digital clock,analog clock
+clothes peg,clothespin
+coaster
+coat
+clothes hanger,dress hanger,coat hanger
+hatrack,coatrack,coat rack
+cock,rooster
+cockroach
+hot chocolate,drinking chocolate,cocoa
+cocoanut,coconut
+coffee maker,coffeepot
+coil
+coin
+cullender,colander
+slaw,coleslaw
+colouring material,coloring material
+teething ring,pacifier
+compass
+computer keyboard,keyboards,keyboard
+condiment
+traffic cone
+convertible
+cookie,cooky,biscuit
+cooking utensil
+bottle cap,bottlecap,bottle cork
+corkboard
+bottle screw
+corn,edible corn,maize
+cornbread
+cornet,horn,trumpet
+cornice,valance board,valance,pelmet
+cornmeal
+girdle,corset
+costume
+puma,mountain lion,cougar,panther,catamount
+coverall
+cowbell
+ten gallon hat,cowboy hat
+crab
+crabmeat
+cracker
+crepe,crape,French pancake
+wax crayon,crayon
+cream pitcher
+crescent roll,croissant
+crib,cot
+crock pot,earthenware jar
+crossbar
+crouton
+crown
+crucifix
+cruise liner,cruise ship
+police cruiser,police car,patrol car,squad car
+crumb
+cub
+square block,cube
+cuke,cucumber
+cufflink
+cupcake
+hair roller,hair curler,hair crimper
+curling iron
+cylinder
+cymbal
+dagger
+dalmatian
+dartboard
+date
+beach chair,deck chair
+deer,cervid
+sika deer
+floss,dental floss
+detergent
+diaper
+journal,diary
+dice,die
+tuxedo,tux
+dish,plate
+dish antenna
+dishcloth,dishrag
+dishtowel,tea towel
+dishwashing detergent,dishwashing liquid,dishwasher detergent,dishsoap
+diving board
+paper cup,dixie cup,dixie cup
+dog collar
+doll,rag doll,barbie doll
+dollar bill,dollar,one dollar bill
+dolls house,dollhouse
+domestic ass,donkey
+doorknob,doorhandle,knob
+doormat,welcome mat
+doughnut
+dove
+dragonfly
+boxers,boxershorts,underdrawers
+frock
+high hat,top hat,opera hat,dress hat,silk hat
+dress suit
+eye dropper,dropper
+drumstick
+duckling
+duct tape
+dumpster
+dustpan
+eagle
+earpiece,earplug
+earring
+easel
+eclair
+eel
+eggs
+spring roll,egg roll
+egg yolk,yolk
+eggbeater,eggwhisk
+aubergine,eggplant
+elk,moose
+eraser
+escargot
+eyepatch
+falcon
+spigot
+fedora
+ferret
+fig
+fighter aircraft,attack aircraft,fighter jet
+figurine
+fire alarm,smoke alarm
+fire engine,fire truck,ladder truck
+fire hose
+hydrant,fireplug
+first aid kit,medkit,emergency kit,medikit
+flagpole
+flamingo
+flannel
+flap
+flip flop
+flipper,fin
+flower arrangement,floral arrangement
+champagne flute,flute glass
+folding chair
+food processor
+football
+football helmet
+footstool,footrest
+freight car
+French toast
+air freshener,freshener
+toad frog,toad
+frypan,frying pan,skillet
+fudge
+futon
+gag,muzzle
+garbage truck
+garden hose
+mouthwash,gargle
+gargoyle
+garlic,ail
+gazelle
+jelly,gelatin
+gemstone
+gingerroot,ginger
+waistband,waistcloth,sash,cincture
+goat
+goldfish
+golf club
+golfcart
+gondola
+goose
+gorilla
+gourd
+grape
+grater
+tombstone,headstone
+gravy boat,gravy holder
+green bean
+green onion,spring onion,scallion
+griddle
+radiator grill,grillwork,grill
+grits,hominy grits
+grizzly bear,grizzly
+gull,seagull
+hairbrush
+hairnet
+hairpin
+halter top
+beefburger,hamburger,burger,cheeseburger
+hammock
+hamster
+hair dryer
+hand mirror,hand glass
+hand towel,face towel
+pushcart,hand truck,handcart
+handcuff
+handkerchief
+grip,handgrip
+handsaw,carpenters saw
+organ,reed organ,harmonium
+veil
+headband
+headboard
+headlight,headlamp
+hockey stick
+building,houses,building structure,buildings,edifices,edifice
+nargileh,narghile,hookah,shisha,sheesha
+hose,hosepipe
+hotplate
+hot sauce,tabasco sauce
+hourglass
+houseboat
+hummingbird
+hommos,hoummos,humous,humus,hummus
+polar bear
+popsicle
+ice maker
+ice bag,ice pack
+igniter,ignitor
+inhaler,inhalator
+jacket
+jam
+denim,blue jean,jean
+landrover,jeep
+jelly bean,jelly egg
+jersey,T shirt,tee shirt
+jet propelled plane,jet plane
+jewellery,jewelry,jewlery,gem,jewel,precious stone
+joystick,game controller,controller,gamepad
+jumpsuit
+kayak
+keg
+boiler
+keycard
+kilt
+kimono
+kitchen sink
+kitten
+kiwi fruit
+knee pad
+knitting needle
+door,doors,double door,sliding door
+koala bear,koala
+ladybird beetle,ladybeetle,ladybug
+lamb
+lambchop,lamb chop
+lamppost
+lampshade
+lantern
+laniard,lanyard
+lasagne,lasagna
+lawn mower
+leather
+leg covering,leging,legging
+Lego set,Lego
+legume
+lemon
+lemonade
+lettuce
+numberplate,license plate
+lifesaver,life ring,life belt
+life vest,life jacket
+lightning rod,lightning conductor
+lime
+limousine
+lip balm
+hard liquor,liqueur,liquor,cordial,spirits
+lizard
+log
+lollipop
+loveseat
+magazine
+magnet
+mail slot
+mallard
+mallet
+mammoth
+manatee
+mandarin orange
+manger,trough
+manhole
+martini
+mascot
+mashed potato
+masher
+mast
+measuring cup
+measuring stick,measuring rod
+meatball,meat ball
+medicine
+melon
+microscope
+milepost,milestone
+milk
+milk can
+milkshake
+minivan
+mint candy
+mitten
+mixer,stand mixer
+motor
+scooter,motor scooter
+automotive vehicle,motor vehicle,automobile
+machinery vehicle
+pitchers mound,mound
+muffin
+mug
+mushroom
+piano stool,music stool
+instrument
+nailfile
+table napkin,serviette
+neckerchief
+necklace
+necktie
+needle
+nest
+sleepwear,nightshirt,nightclothes,nightwear
+noseband,nosepiece
+notepad
+nut
+nutcracker
+octopus
+kerosine lamp,kerosene lamp,oil lamp
+olive oil
+omelet,omelette
+onion
+orange,orange fruit
+ostrich
+overalls
+owl
+packet
+inking pad,inkpad,stamp pad
+pad
+boat paddle,paddle
+padlock
+paintbrush
+pajamas,pyjamas
+palette,pallet
+cooking pan
+pancake
+pantyhose
+papaya
+paper plate
+book,hardcover book,hardback book,paperback book,paper back book,soft cover book,softback book,telephone book,phonebook,telephone directory
+paperweight
+paroquet,parroquet,paraquet,parroket,parakeet,parrakeet
+parasail
+parchment
+parrot
+coach,passenger car
+passport
+pastry
+patty
+pea
+peach
+peanut butter
+pear
+peeler
+pegleg,wooden leg
+pelican
+pencil case,pencil box
+pencil sharpener
+pendulum
+penguin
+pennant
+penny
+peppercorn,pepper
+pepper mill,pepper grinder
+perfume
+record,phonograph record,phonograph recording
+pickle
+pie
+pigeon
+piggy bank,penny bank
+pin
+pineapple
+pinecone
+ping pong ball
+pinwheel
+tobacco pipe
+pocket bread,pita
+ewer
+pitchfork
+platter
+playpen
+plyers
+plow,plough
+pocket watch
+pocketknife
+knife block
+fire hook,stove poker
+post
+sport shirt,polo shirt
+poncho
+pop,tonic,soft drink,soda
+mailing card,postal card
+potato
+potholder
+clayware,pottery
+pouch
+digger,power shovel,excavator
+prawn,shrimp
+pretzel
+propellor,propeller
+prune
+pudding
+puffer,pufferfish,blowfish,globefish
+puffin
+pug dog
+puncher
+marionette,puppet
+quesadilla
+quiche
+quilt,comforter
+racing car,race car
+racquet
+radar
+tuner,radio receiver,radio set
+daikon,radish
+waterproof jacket,raincoat
+raspberry
+rasberry pi,raspberry pi single board computer
+rat
+razorblade
+juicer,juice reamer,reamer
+rearview mirror,car mirror
+receipt
+lounger,recliner,reclining chair
+chair,chairs,swivel chair,seat,seats,feeding chair,highchair
+phonograph,record player,turntable
+road map
+robe
+rocking chair
+rodent
+rolling pin
+router
+rubber band,elastic band
+runner
+safety pin
+sail
+salad
+salami
+salmon
+salsa
+saltshaker
+sandal
+satchel
+saucepan
+saucer
+sausage
+sawhorse,sawbuck
+saxophone
+scarecrow,strawman
+scarf
+school bus
+scoreboard
+scraper
+scrubbing brush
+seabird,seafowl
+hydroplane,seaplane
+seashell
+shaker
+shampoo
+shark
+sharpener
+electric shaver,shaver,electric razor
+shaving cream,shaving soap
+shawl
+shears
+sheepdog,shepherd dog
+sherbet,sherbert
+shield
+shirt
+trunks,short pants,shorts
+shot glass
+shower head
+shower curtain
+shredder
+silo
+skewer
+ski boot
+ski pole
+skirt
+skullcap
+sledge,sleigh
+sleeping bag
+sling,triangular bandage
+slipper,carpet slipper
+smoothie
+serpent
+snowman
+snowmobile
+soap
+soccer ball
+sock
+lounge
+softball
+solar panel,solar array,solar battery
+sombrero
+soup
+pet bowl
+soupspoon
+soured cream,sour cream
+soybean milk,soymilk,soya milk
+space shuttle
+sparkler
+spear,lance
+glasses,spectacles,specs,eyeglasses,eyeglass
+spice rack
+spider
+crayfish,crawfish
+sponge
+sportswear,athletic wear,activewear
+calamari,calamary,squid
+starfish,sea star
+statue
+steak
+steering wheel
+stepladder
+step stool
+stereo
+stew
+stirrer
+stirrup
+range
+strainer
+strap
+drinking straw
+strawberry
+street sign
+string cheese
+stylus
+subwoofer
+sugarcane
+suit
+sunflower
+sunhat
+sushi
+sweat pants
+sweatband
+sweater
+sweatshirt
+sweet potato
+floor,flooring,rug,carpet,tile ground,tile floor,carpeting,floor wood,cement floor,wood floor,mat,prayer rug,prayer mat,gym mat
+swimsuit,swimming trunks,swimwear,swimming costume
+sword
+syringe
+ping pong table,table tennis table,tennis table
+table lamp
+tachometer
+taco
+tag
+taillight,rear light,brake light
+tambourine
+tank top
+measuring tape,tape measure
+tapestry
+tartan,plaid
+tassel
+teacup
+teakettle
+teapot
+telephone,telephone set,corded telephone,dial phone,dial telephone
+call box,telephone box,telephone kiosk,phone booth,telephone booth
+telephone pole,telegraph pole,telegraph post
+tennis ball
+tequila
+thermometer
+thermostat
+thimble
+yarn,thread
+drawing pin,thumbtack,pushpin
+tiara
+tiger
+tights,leotards
+tinfoil
+tinsel
+tissue box,kleenex holder,napkin box,tissue case
+dehumidifier
+toast
+toaster oven
+tomato
+tongs
+toothpaste
+toothpick
+cover
+tortilla
+tow truck
+towel rack,towel rail,towel bar
+tractor
+dirt bike
+tractor trailer,semi truck,trailer truck,trucking rig,articulated lorry,trailer,motortruck,truck,trucks
+railroad train
+trench coat
+triangle
+trousers,pants
+truffle,chocolate truffle
+trunk
+vat
+turban
+turkey
+turnip
+polo neck,turtleneck
+underclothing,underwear,underclothes,underpants
+unicycle
+urinal
+vent,blowhole,air vent
+vest,waistcoat
+videotape
+vinegar
+fiddle
+volleyball
+vulture
+waffle
+waffle iron
+wagon wheel
+walking stick
+wall socket,electrical outlet,electric outlet,wall plug,electric receptacle,outlet,power outlet
+billfold
+walrus
+handbasin,washstand,washbowl,basin,washbasin
+wristwatch
+water cooler
+water faucet,water tap
+water heater,hot water heater
+jug,water jug
+squirt gun,water gun
+sea scooter,water scooter,jet ski
+water ski
+water tower
+watering can
+wind vane,weathervane,vane
+wedding cake,bridecake
+wedding band,wedding ring
+wet suit
+whipped cream
+whistle
+wig
+windmill
+windscreen wiper,wiper,windshield wiper
+air sleeve,wind sleeve,wind cone,air sock,windsock
+wine bottle
+wolf
+wooden spoon
+wreath
+wrench
+wristband
+wrist band,wristlet
+yogurt,yoghurt,yoghourt
+abacus
+judges robe,academic gown,academic robe
+piano accordion,accordion,squeeze box
+attack aircraft carrier,carrier,flattop,aircraft carrier
+airliner
+dirigible,airship
+altar
+amphibious vehicle
+apiary,bee house
+back pack
+bakeshop,bakery,bakehouse
+balance beam,beam
+ballpoint pen,ballpoint,ballpen,biro
+band aid
+barber chair
+barbershop
+barn
+barometer
+bassinet
+bassoon
+bathing cap,swimming cap,shower cap
+station wagon,beach waggon,estate car,waggon,station waggon,beach wagon
+beacon light,beacon,pharos,lighthouse
+beaker
+bell cote,bell cot
+tandem bicycle,bicycle built for two
+two piece,bikini
+boathouse
+bobsled,bobsleigh
+poke bonnet
+bookshop,bookstore,bookstall
+memorial tablet,plaque,brass
+seawall,mole,jetty,groin,bulwark,breakwater,groyne
+egis,aegis,breastplate
+buckle
+bullet
+meat market,butcher shop
+cauldron,caldron
+cannon
+mirrors,mirror,cosmetics mirror
+carousel,roundabout,merry go round,carrousel,whirligig
+tool kit,carpenters kit
+automated teller machine,automatic teller,automated teller,cash dispenser,automatic teller machine,atm,cash machine
+cassette player
+castle
+catamaran
+violoncello
+chainlink fence
+chain saw,chainsaw
+chiffonier
+christmas stocking
+church,church building
+picture palace,movie house,movie theatre,cinema,movie theater
+chopper,meat cleaver,cleaver
+cliff dwelling
+cocktail shaker
+coffee mug,coffee cup
+spiral,volute,whorl,helix
+keypad
+keys,key
+container
+candy store,confectionary,confectionery
+container vessel,container ship,containership
+cowboy boot
+cradle
+crash helmet
+croquet ball
+cuirass
+dyke,dam,dike
+nappy
+digital watch
+disc brake,disk brake
+dockage,docking facility
+dogsled,dog sleigh,dog sled
+dome
+offshore rig,drilling platform
+membranophone,tympan
+dutch oven
+blower
+electric locomotive
+entertainment center
+espresso maker
+face powder
+boa,feather boa
+fire screen,fireguard
+transverse flute,flute
+fountain pen
+french horn
+fur coat
+dustcart
+gas pump,petrol pump,island dispenser,gasoline pump
+goblet
+go kart
+golf ball
+golf cart
+nursery,greenhouse
+grocery,food market,market,grocery store
+blow dryer,hand blower,blow drier,hair drier
+box,cardboard box,brown box,white box,crate,chest,storage box,carton
+drawer,drawers,desk drawer
+cabinet,wall mounted cabinet,cabinets,dresser,cabinets,filing cabinet,file cabinet,cupboard,bureau,china cabinet,china closet,medicine cabinet,medicine chest,kitchen cabinets,bathroom cabinets
+laptop computer,notebook computer,laptop,macbook
+hand held computer,hand held microcomputer
+hanky,hankie,hankey
+hard disc,hard disk,fixed disk
+harmonica,mouth harp,mouth organ,harp
+reaper,harvester
+hatchet
+holster
+multimedia system,media center,home theater,home theatre,surrond sound system
+honeycomb
+claw
+hoopskirt,crinoline
+jack o lantern
+t shirt
+jigsaw puzzle
+jinrikisha,ricksha,rickshaw
+knot
+lamp shade
+mower
+lens cover,lens cap
+letter opener
+knife,knives,kitchen knife,steak knife,table knife
+limo
+ocean liner,liner
+lip rouge,lipstick
+loafer
+lotion
+speaker system,loudspeaker system,speaker unit,loudspeaker
+loupe,jewelers loupe
+lumbermill,sawmill
+magnetic compass
+maillot
+tank suit
+manhole cover
+maraca
+marimba,xylophone
+matchstick
+maypole
+maze,labyrinth
+minibus
+mini,miniskirt
+manufactured home,mobile home
+modem
+monastery
+moped
+mortar
+mortarboard
+mosque
+all terrain bike,mountain bike,off roader
+mountain tent
+mousetrap
+neck brace
+obelisk
+oboe,hautboy,hautbois
+ocarina
+mileometer,odometer,milometer,hodometer
+oil filter
+pipe organ
+overskirt
+oxcart
+paddlewheel,paddle wheel
+pyjama,pajama,pjs,jammies
+palace
+panpipe,syrinx,pandean pipe
+chute
+park bench
+carriage
+terrace
+pay station,pay phone
+footstall,pedestal,plinth
+essence
+petri dish
+pick,plectron,plectrum
+pickelhaube
+picket fence,paling
+pickup
+pier
+beer bottle
+pill bottle
+pirate,pirate ship
+carpenters plane,woodworking plane,plane
+planetarium
+plate rack
+plunger,plumbers helper
+patrol wagon,paddy wagon,police wagon,black maria,police van
+pop bottle,soda bottle
+potters wheel
+power drill
+prison house,prison
+puck,hockey puck
+punchball,punching ball,punch bag,punching bag
+quill,quill pen
+comfort
+racer
+wireless
+radio telescope,radio reflector
+rain barrel
+recreational vehicle,r.v.,rv
+eating house,eating place,restaurant,eatery
+rocker
+rotisserie
+rubber eraser,pencil eraser
+rugby ball
+rule
+safe
+salt shaker
+sarong
+sax
+scabbard
+weighing machine
+schooner
+screw
+seat belt,seatbelt
+buckler
+shoe shop,shoe store
+shoji
+ski mask
+slipstick,slide rule
+one armed bandit,slot
+snorkel
+snowplow,snowplough
+soap dispenser,liquid soap dispenser
+solar furnace,solar dish,solar collector
+space bar
+space heater
+spider web,spiders web
+spindle
+sports car,sport car
+spot
+steam locomotive
+steel arch bridge
+steel drum
+stethoscope
+stole
+stop watch
+tram,tramcar,trolley car,streetcar,trolley
+stupa,tope
+submarine,u boat,pigboat,sub
+sundial
+dark glasses,shades,goggles
+sunblock,sunscreen,sun blocker
+suspension bridge
+electric switch,electrical switch
+tape player
+teddy
+thatched roof,thatch
+threshing machine,thresher,thrasher
+throne
+tile roof
+tobacconist,tobacco shop,tobacconist shop
+toilet seat
+totem pole
+wrecker,tow car
+toyshop
+velocipede,trike
+trimaran
+triumphal arch
+trackless trolley,trolley coach,trolleybus
+trombone
+turnstile
+typewriter keyboard
+monocycle
+velvet
+vestment
+viaduct
+notecase
+warplane,military plane
+lavabo,wash hand basin
+windsor tie
+wing
+woollen,woolen
+snake rail fence,worm fence,snake fence,virginia fence
+wreck
+internet site,site,web site,website
+dust cover,dust jacket,dust wrapper
+guacamole
+hotpot,hot pot
+ice cream,icecream
+lolly,ice lolly
+french loaf
+head cabbage
+spaghetti squash
+acorn squash
+butternut squash
+globe artichoke
+cardoon
+granny smith
+ananas
+jackfruit
+custard apple
+pomegranate
+carbonara
+chocolate syrup,chocolate sauce
+dough
+meat loaf,meatloaf
+potpie
+red wine
+espresso
+eggnog
+alp
+bubble
+cliff,drop off
+coral reef
+geyser
+lakeshore,lakeside
+headland,promontory,foreland,head
+seashore,seacoast,coast,sea coast
+vale,valley
+volcano
+ballplayer,baseball player
+bridegroom,groom
+scuba diver
+rapeseed
+daisy
+cypripedium parviflorum,yellow ladys slipper,yellow lady slipper,cypripedium calceolus
+acorn
+rosehip,rose hip,hip
+coral fungus
+bolete
+spike,ear,capitulum
+bible
+bull
+christmas tree
+french toast
+lego
+rollerblade
+sharpie,whiteboard marker,felttip pen,boardmarker
+portswear
+flying disc
+poultry
+shoe,leather shoes,footwear,sneakers,tennis shoe,sneaker,running shoe
+boots
+suv
+sandals
+bakset
+classroom board,chalkboard,blackboard,slate board,black board,greenboard,green board,dust board,teaching board,whiteboard,white board,marker board,dry erase board,wipe board
+fiducial marker,fiducial markers,aruco marker,aruco tag
+tangerine
+toiletry
+soccer
+skiboard
+nightstand
+tea pot
+headphone,head phone
+chopsticks
+cookies
+candy
+billards
+converter
+cigar
+paint brush
+extractor
+extention cord
+tennis
+green beans
+drying machine
+tissue
+hotair ballon,hot ballon
+air purifier
+french fries
+cabbage
+rice
+cosmetics
+mango
+hurdle
+medal
+nuts
+speed limit sign
+stop sign
+induction cooker
+plum
+poker card
+cheese
+paper,newspaper,tissue paper,toilet tissue,toilet paper,bathroom tissue,notepaper,packaging paper,paper towel
+pasta
+cue
+hamimelon
+flask
+mushroon
+board eraser
+tape measur
+showerhead
+chips
+crosswalk sign
+campel
+formula
+hoverboard
+antelope
+seal
+buttefly
+electric drill
+egg tart
+grapefruit
+game board
+baozi
+target
+french
+spring rolls
+yak
+red cabbage
+scallop
+noddles
+dumpling
+oyster
+table tennis paddle
+cosmetics brush,eyeliner pencil
+durian
+okra
+curling
+gravel
+house
+playingfield
+river
+roof
+sea
+road route
+pavement
+field
+base,stand
+skyscraper,skyscrapers
+stairway,staircase,stairs,steps,step,stair
+moving stairway,moving staircase,escalator
+net,ball net,mosquito net,fishing net
+backboard
+package
+roaster
+textiles
+sedan
+ape
+hand
+cable
+electric wire
+plugs and sockets
+land transportation
+chandilier
+branch
+leaf
+earthware pot with handle
+decoration
+beddings,bedclothes,blanket,counterpane,bedspread,spread,bedcover,bed covering
+hoodie
+wheeled machine,wheeled ground vehicle,ugv
+ski board
+golf
+cable car
+shrub
+electricpole
+sunk fence
+gutter
+wiredfence
+high rise
+park ground
+ventilation
+wine
+vine
+trail
+chess
+crops
+swimmingpool,swimming pool
+moth
+pond
+fire hyrant
+fountain ground
+temple
+guideboard
+seafood
+sealion
+chimney
+micro wave oven
+brook
+alley
+solar pannel
+extension cord
+grass,lawn,turf,grasses,grass field,moss,bushes
+kangaroo
+hairdryer
+trophies,medals,certification,trophy cup,trophy
+mechanical fan
+fan,ceiling fan,floor fan,electric fan
+parkinglot
+coffeemaker
+caterpillar
+crocodile
+segway
+cloud
+liquid soap
+spacecraft
+alpaca
+rose
+snow plow
+popcorn
+lavender
+balance
+canary
+woodpecker
+balcony
+bicycle helmet,bike helmet
+moon
+cocktail
+lily
+maple
+pressure cooker
+nail clippers
+beehive
+spaghetti
+willow
+banners
+tennis net
+wall,brick wall,wall brick,stone wall,tile wall,wall tile,walls,interior wall,concretewall,corridorwall,corridor wall
+wood wall,wall wood
+glasswall
+routes,roads,route

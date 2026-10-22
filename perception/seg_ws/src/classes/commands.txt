@@ -1,0 +1,1 @@
+source /app/unitree_ros2/cyclonedds_ws/install/setup.bash && ros2 launch realsense2_camera rs_launch.py camera_namespace:=go2 camera_name:=cam rgb_camera.color_profile:=640,480,30 depth_module.depth_profile:=640,480,30

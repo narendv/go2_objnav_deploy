@@ -1,0 +1,11 @@
+Classify the given room based on the objects provided. Choose a label from the following room candidates:
+Candidate Room Labels and their descriptions:
+- Corridor: An area that may contain multiple doors, elevators, wastebins, paintings, etc.
+- Break_room: An area that may contain fridge, coffee maker, microwave, toaster, etc. with chairs and tables
+- Office: An area that may contain multiple tables, chairs, monitors, whiteboards, etc.
+
+Your response must follow this format:
+Explanation: <Explain your choice in few words>
+Room label: <Select the room label from the provided candidates and put it here>
+
+Task: You are observing {objects} in the room. Choose a room label from the given candidates and provide an explanation in the format above.

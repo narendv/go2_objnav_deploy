@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ROS 2 / perception
+.vscode/
+.cache/
+install/
+log/
+perception/*_ws/build/
+perception/*_ws/devel/
+perception/*_ws/install/
+perception/*_ws/log/
+perception/seg_ws/src/mask_to_bbox_cpp/scripts/new_segmentation/*.trt

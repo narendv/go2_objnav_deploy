@@ -1,0 +1,3 @@
+corridor/wastebin/door/person/paintings/bench/elevator/plant
+office/television/monitor/computer/laptop/whiteboard/machines
+kitchen/microwave/fridge/toaster/canteen/coffee maker
